@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rmasyarakat" value="name:nik;datatype:string,name:nama;datatype:string,name:username;datatype:string,name:password;datatype:string,name:telp;datatype:string" />
+	<infoitem key="UD_Rpetugas" value="name:id_petugas;datatype:int,name:nama_petugas;datatype:string,name:username;datatype:string,name:password;datatype:string,name:telp;datatype:string,name:level;datatype:string,name:foto;datatype:string" />
+</info>

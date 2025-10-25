@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rpetugas" value="name:id_petugas;datatype:int,name:nama_petugas;datatype:string,name:username;datatype:string,name:password;datatype:string,name:telp;datatype:string,name:level;datatype:string,name:foto;datatype:string" />
+	<infoitem key="UD_Rtanggapan" value="name:id_tanggapan;datatype:int,name:id_pengaduan;datatype:int,name:tgl_tanggapan;datatype:date,name:tanggapan;datatype:blob,name:id_petugas;datatype:int" />
+	<infoitem key="UD_Rpengaduan" value="name:id_pengaduan;datatype:int,name:tgl_pengaduan;datatype:date,name:nik;datatype:string,name:isi_laporan;datatype:blob,name:foto;datatype:string,name:status;datatype:string" />
+</info>
